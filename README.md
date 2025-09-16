@@ -1,6 +1,6 @@
 # Simulations Aléatoires
 
-### Mots-clés : Simulations, Génération de lois, Aiguille de Buffon, Méthode d'inversion, Méthode de Box Muller, Méthode de Monte-Carlo, Méthode du rejet
+### Mots-clés : Simulations, Génération de lois, Aiguille de Buffon, Méthode d'inversion, Méthode de Box Muller, Méthode de Monte-Carlo, Méthode du rejet, R
 
 ### Projet : Apprendre et tester différentes méthodes pour simuler des lois de probabilités.
 
